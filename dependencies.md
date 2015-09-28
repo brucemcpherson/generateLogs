@@ -1,5 +1,5 @@
 # Google Apps Script Project: generateLogs
-This repo (generateLogs) was automatically updated on 15 September 2015 11:48:32 BST by GasGit
+This repo (generateLogs) was automatically updated on 28 September 2015 17:43:48 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project generateLogs
@@ -38,8 +38,6 @@ cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|10|no|[here](
 cDogger| cDogger|MTHTf2i92nJR3buW_ly6xpqi_d-phDA33|11|no|[here](libraries/cDogger "library source")
 cDriverScratch| cDriverScratch|MTnrkatWa6Lrta8eAg6_H0qi_d-phDA33|10|no|[here](libraries/cDriverScratch "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
